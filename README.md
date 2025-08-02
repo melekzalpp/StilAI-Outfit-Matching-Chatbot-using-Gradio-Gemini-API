@@ -1,4 +1,5 @@
 # AI Fashion Bot — Weather Based Outfit Suggestions
+HuggingFace demo:https://huggingface.co/spaces/M07/AI_Fashion_Bot_Weather_Based_Outfit_Suggestions
 
 This project is an AI-powered fashion assistant that recommends outfit combinations based on real-time weather data and user preferences. Built as a Hugging Face Space, it uses natural language processing and weather APIs to provide personalized fashion advice, helping users dress stylishly and comfortably regardless of weather conditions.
 
